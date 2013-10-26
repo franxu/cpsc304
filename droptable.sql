@@ -1,0 +1,9 @@
+drop table pack;
+drop table customer;
+drop table travel_agent;
+drop table flight;
+drop table airline;
+drop table room;
+drop table hotel;
+drop table rental;
+drop table car;
